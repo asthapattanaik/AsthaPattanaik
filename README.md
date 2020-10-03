@@ -9,4 +9,5 @@ I am a final year undergraduate student pursuing BSc(H) Computer Science from De
 Being a technology enthusiast, I love to explore new technologies and use it to solve real world problems. I am passionate about creating 
 an impact among the peers and encourage them to dive deeper into the world of tech. 
 <h4>Technologies : Java|C++|Python|Javascript|Node js|React Native</h4>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=asthapattanaik&theme=radical" />
 <h5>Apart from Tech,Mandalas do excite me!❤😁</h5>
